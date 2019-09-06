@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kocharueko.cowlet.org/sitemap.xml
